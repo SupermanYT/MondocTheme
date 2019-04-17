@@ -163,7 +163,7 @@ a {
 }
 #plugin-settings-BetterCustomCSS button[onClick*="save"] {
   margin-right: 5px;
-}
+
 .bda-slist li {
   max-height: 300px;
 }
@@ -2000,7 +2000,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
   background-repeat: no-repeat;
   background-size: contain;
   width: 100px;
-  height: 16px;
+  height: 40px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: 0;
