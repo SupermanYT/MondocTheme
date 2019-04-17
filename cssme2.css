@@ -2000,7 +2000,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {
   background-repeat: no-repeat;
   background-size: contain;
   width: 100px;
-  height: 5px;
+  height: 100px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: 0;
